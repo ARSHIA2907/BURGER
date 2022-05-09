@@ -1,0 +1,20 @@
+body{
+    background-color: papayawhip;
+}
+h1{
+    background-color: lightcoral;
+    color: mediumvioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200px;
+    
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 120px;
+    
+}
+img{ height: 500px;
+    
+
+}
